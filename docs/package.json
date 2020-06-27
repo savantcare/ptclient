@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.2"
+    "vuepress": "^1.5.2",
+    "vuepress-plugin-docgen": "^1.2.9"
   },
   "scripts": {
     "docs:dev": "vuepress dev",
