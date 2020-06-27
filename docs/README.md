@@ -1,8 +1,11 @@
-# How was it installed?
+# Why write a patient file app?
 
-mkdir docs
-cd docs/
-yarn init
-yarn add -D vuepress # npm install -D vuepress
-echo '# Hello VuePress' > README.md
-yarn docs:dev
+![eye contact](./images/maintain-eye-contact-with-patient.png)
+
+
+* Be atleast as good as paper
+* Maintain eye contact with patient
+    [Get out of the way of patient doctor relationship](https://khn.org/news/death-by-a-thousand-clicks/)
+* Correlate 
+
+Code level documentation is at: /styleguidist/
